@@ -8,3 +8,28 @@
 .site-header{
     background-color: black;
 }
+
+.footer-widgets{
+    background-color: black;
+}
+
+.main-title a, .main-title a:hover, .main-title a:visited{
+    color: #0000ff;
+}
+
+.main-navigation .main-nav ul li a, .menu-toggle {
+    color: white;
+    background-color: black;
+}
+
+.header-image{
+    max-height: 65px;
+}
+
+button.menu-toggle{
+    background-color: black;
+}
+
+button.menu-toggle:hover, button.menu-toggle:focus, .main-navigation .mobile-bar-items a, .main-navigation .mobile-bar-items a:hover, .main-navigation .mobile-bar-items a:focus {
+    color: black;
+}
