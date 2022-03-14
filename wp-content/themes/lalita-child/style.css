@@ -33,3 +33,7 @@ button.menu-toggle{
 button.menu-toggle:hover, button.menu-toggle:focus, .main-navigation .mobile-bar-items a, .main-navigation .mobile-bar-items a:hover, .main-navigation .mobile-bar-items a:focus {
     color: black;
 }
+h1.entry-title{
+display:flex;
+    text-align: center;
+}
